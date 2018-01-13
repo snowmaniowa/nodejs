@@ -1,6 +1,5 @@
 
 /**
- * @author Santha Perian
  * This is serverside js code
  * 
  * Note: Run "npm install uppper-case" this command before running this program
