@@ -1,5 +1,4 @@
 /**
- * @author Santha Perian
  * This is a serverside js code
  * 
  * 1. Shows how to create a file

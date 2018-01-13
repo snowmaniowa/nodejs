@@ -1,5 +1,4 @@
 /**
- * @author Santha Perian
  * This is a serverside js code
  * 
  * The HTTP module can create an HTTP server that listens to server ports and gives a response back to the client.

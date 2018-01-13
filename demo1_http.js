@@ -1,6 +1,5 @@
 
 /**
- * @author Santha Perian
  * This is serverside js code
  */
 

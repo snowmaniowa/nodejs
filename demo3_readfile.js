@@ -1,5 +1,4 @@
 /**
- * @author Santha Perian
  * This is a serverside js code 
  * shows how to read a file and return the content
  * 
